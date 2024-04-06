@@ -1,0 +1,13 @@
+"Daily Weather Observations for Mandurah, Western Australia for April 2024"
+"Prepared at 08:20 UTC on Saturday  6 April 2024   IDCJDW6077.202404"
+"Copyright 2003 Commonwealth Bureau of Meteorology"
+"Observations from a site near the coast."
+"Observations were drawn from Mandurah {station 009977}"
+
+,"Date","Minimum temperature (°C)","Maximum temperature (°C)","Rainfall (mm)","Evaporation (mm)","Sunshine (hours)","Direction of maximum wind gust ","Speed of maximum wind gust (km/h)","Time of maximum wind gust","9am Temperature (°C)","9am relative humidity (%)","9am cloud amount (oktas)","9am wind direction","9am wind speed (km/h)","9am MSL pressure (hPa)","3pm Temperature (°C)","3pm relative humidity (%)","3pm cloud amount (oktas)","3pm wind direction","3pm wind speed (km/h)","3pm MSL pressure (hPa)"
+,2024-04-1,14.8,27.4,0,,,ESE,44,00:22,17.9,51,,E,19,1028.0,26.9,28,,ESE,9,1023.2
+,2024-04-2,14.4,27.6,0,,,ESE,31,23:53,19.0,51,,E,15,1027.2,27.0,33,,S,13,1023.4
+,2024-04-3,14.9,29.3,0,,,E,35,03:52,19.3,47,,ESE,11,1027.1,26.4,38,,WSW,15,1023.5
+,2024-04-4,18.2,27.4,0,,,NE,26,09:50,21.2,44,,NE,13,1024.1,26.9,30,,W,11,1019.8
+,2024-04-5,18.3,29.6,0,,,NE,20,04:17,23.1,42,,NE,9,1017.9,29.0,29,,WNW,6,1014.7
+,2024-04-6,20.1,,0,,,,,,24.0,32,,SE,9,1016.0,30.7,24,,WSW,17,1013.2
