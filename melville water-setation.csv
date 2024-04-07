@@ -1,0 +1,37 @@
+"Daily Weather Observations for Melville Water, Western Australia for January 2024"
+"Prepared at 13:03 UTC on Wednesday  3 April 2024   IDCJDW6161.202401"
+"Copyright 2003 Commonwealth Bureau of Meteorology"
+"Observations were drawn from Inner Dolphin Pylon {station 009091}"
+
+,"Date","Minimum temperature (°C)","Maximum temperature (°C)","Rainfall (mm)","Evaporation (mm)","Sunshine (hours)","Direction of maximum wind gust ","Speed of maximum wind gust (km/h)","Time of maximum wind gust","9am Temperature (°C)","9am relative humidity (%)","9am cloud amount (oktas)","9am wind direction","9am wind speed (km/h)","9am MSL pressure (hPa)","3pm Temperature (°C)","3pm relative humidity (%)","3pm cloud amount (oktas)","3pm wind direction","3pm wind speed (km/h)","3pm MSL pressure (hPa)"
+,2024-01-1,,,,,,S,52,18:16,,,,SE,6,,,,,SSW,35,
+,2024-01-2,,,,,,ESE,57,21:10,,,,ESE,33,,,,,SE,28,
+,2024-01-3,,,,,,E,61,03:52,,,,E,35,,,,,ESE,35,
+,2024-01-4,,,,,,ESE,59,11:46,,,,E,33,,,,,E,26,
+,2024-01-5,,,,,,ESE,48,01:07,,,,E,28,,,,,SSW,31,
+,2024-01-6,,,,,,SSW,44,16:40,,,,ENE,15,,,,,SW,24,
+,2024-01-7,,,,,,SSW,43,16:45,,,,ENE,17,,,,,SSW,28,
+,2024-01-8,,,,,,SSW,48,16:37,,,,WNW,2,,,,,SSW,33,
+,2024-01-9,,,,,,SSW,57,17:09,,,,S,24,,,,,SSW,43,
+,2024-01-10,,,,,,E,43,00:07,,,,E,13,,,,,SW,28,
+,2024-01-11,,,,,,ESE,48,22:47,,,,SSE,7,,,,,SW,28,
+,2024-01-12,,,,,,ESE,44,22:06,,,,E,28,,,,,ESE,13,
+,2024-01-13,,,,,,ENE,44,00:30,,,,ENE,28,,,,,SSW,22,
+,2024-01-14,,,,,,SW,26,16:23,,,,SSW,9,,,,,SW,17,
+,2024-01-15,,,,,,WSW,26,11:47,,,,NE,4,,,,,WSW,19,
+,2024-01-16,,,,,,E,61,18:39,,,,ENE,20,,,,,WNW,17,
+,2024-01-17,,,,,,,,,,,,SW,4,,,,,WSW,17,
+,2024-01-18,,,,,,SSW,41,18:16,,,,WSW,20,,,,,SW,26,
+,2024-01-19,,,,,,SW,44,14:28,,,,SSW,11,,,,,SW,30,
+,2024-01-20,,,,,,SSW,37,15:24,,,,NE,7,,,,,SW,30,
+,2024-01-21,,,,,,SSW,48,17:57,,,,SSW,20,,,,,SSW,31,
+,2024-01-22,,,,,,SSW,44,15:08,,,,SSE,19,,,,,SW,35,
+,2024-01-23,,,,,,SSW,46,17:27,,,,SE,17,,,,,SSW,33,
+,2024-01-24,,,,,,SSW,52,14:01,,,,SSE,24,,,,,SSW,37,
+,2024-01-25,,,,,,SSW,59,16:19,,,,SSE,22,,,,,SSW,43,
+,2024-01-26,,,,,,E,50,03:16,,,,E,28,,,,,SW,31,
+,2024-01-27,,,,,,SSW,35,17:09,,,,ENE,19,,,,,SW,26,
+,2024-01-28,,,,,,SW,46,11:30,,,,SSW,28,,,,,SW,31,
+,2024-01-29,,,,,,SSW,48,17:09,,,,E,20,,,,,SSW,33,
+,2024-01-30,,,,,,SSW,43,16:52,,,,ENE,22,,,,,SW,28,
+,2024-01-31,,,,,,SSW,35,16:24,,,,ENE,6,,,,,SW,24,
